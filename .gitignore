@@ -1,0 +1,5 @@
+ShaderDev_course/Library
+ShaderDev_practice/Library
+*.csproj
+*.sln
+ShaderDev_course/Assets/Temp
